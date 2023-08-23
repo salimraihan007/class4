@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+	text-align: center;
+	background-color: gold;
+	height: 50px;
+}
+
+.header ul li{
+	display: inline-block;
+	font-size: 18px;
+	margin-right: 40px;
+	line-height: 50px;
+	color: red;
+}
+.box{
+	text-align: center;
+}
+.box h1{
+	font-size: 45px;
+	color: red;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	border: 3px solid goldenrod;
+}
+.box img{
+	border-radius: 25px;
+	width: 400px;
+}
+.box p{
+	font-size: 20px;
+	line-height: 30px;
+	margin-top: 30px;
+	color: white;
+	background-color: chocolate;
+	border-radius: 30px;
+	font-style: normal;
+}
+
+.box button{
+     padding-top: 15px;
+     padding-bottom: 10px;
+     padding-right: 25px;
+     padding-left: 30px;
+     font-size: 15px;
+     border: none;
+     background-color: red;
+     color: white;
+     border-radius: 20px;
+}
